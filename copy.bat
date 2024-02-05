@@ -1,0 +1,1 @@
+CopyFiles -i file1.txt file2.txt file3.txt filen.txt -o outfile.txt
